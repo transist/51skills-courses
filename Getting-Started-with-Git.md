@@ -380,3 +380,7 @@ Omit the second parameter means comparing to `HEAD`:
 
 * Subversion-style workflow
 * Integration manager workflow
+
+## Get the Slide
+
+# bit.ly/51-git-course
